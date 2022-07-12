@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 12 Jul 2022 13:00:12 at https://njmsa.me/qurtmoc/admin/index.php +https://njmsa.me/qurtmoc/ +https://njmsa.me/qurtmoc/moc1.php?namozgno=1 +https://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://njmsa.me/qurtmoc/admin/index.php +https://njmsa.me/qurtmoc/ +https://njmsa.me/qurtmoc/moc1.php?namozgno=1 +https://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js -O1 "C:\Users\Hp\Desktop\DENTAL GURAYAAT HEALTH" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:00:25	Error: 	"Not Found" (404) at link https://njmsa.me/qurtmoc/admin/fonts/glyphicons-halflings-regular.eot? (from https://njmsa.me/qurtmoc/admin/css/bootstrap.min.css)
+13:00:25	Error: 	"Not Found" (404) at link https://njmsa.me/qurtmoc/admin/fonts/glyphicons-halflings-regular.woff2 (from https://njmsa.me/qurtmoc/admin/css/bootstrap.min.css)
+13:00:25	Error: 	"Not Found" (404) at link https://njmsa.me/qurtmoc/admin/fonts/glyphicons-halflings-regular.woff (from https://njmsa.me/qurtmoc/admin/css/bootstrap.min.css)
+13:00:25	Error: 	"Not Found" (404) at link https://njmsa.me/qurtmoc/admin/fonts/glyphicons-halflings-regular.ttf (from https://njmsa.me/qurtmoc/admin/css/bootstrap.min.css)
+13:00:25	Error: 	"Not Found" (404) at link https://njmsa.me/qurtmoc/admin/fonts/glyphicons-halflings-regular.svg (from https://njmsa.me/qurtmoc/admin/css/bootstrap.min.css)
+13:00:25	Error: 	"Not Found" (404) at link https://njmsa.me/qurtmoc/admin/fonts/ionicons.eot?v=2.0.0 (from https://njmsa.me/qurtmoc/admin/css/ionicons.min.css)
+13:00:25	Error: 	"Not Found" (404) at link https://njmsa.me/qurtmoc/admin/fonts/ionicons.ttf?v=2.0.0 (from https://njmsa.me/qurtmoc/admin/css/ionicons.min.css)
+13:00:25	Error: 	"Not Found" (404) at link https://njmsa.me/qurtmoc/admin/fonts/ionicons.woff?v=2.0.0 (from https://njmsa.me/qurtmoc/admin/css/ionicons.min.css)
+13:00:25	Error: 	"Not Found" (404) at link https://njmsa.me/qurtmoc/admin/fonts/ionicons.svg?v=2.0.0 (from https://njmsa.me/qurtmoc/admin/css/ionicons.min.css)
+13:00:25	Error: 	"Not Found" (404) at link https://njmsa.me/qurtmoc/admin/fonts/fontawesome-webfont.eot? (from https://njmsa.me/qurtmoc/admin/css/font-awesome-rtl.min.css)
+13:00:25	Error: 	"Not Found" (404) at link https://njmsa.me/qurtmoc/admin/fonts/fontawesome-webfont.woff2?v=4.7.0 (from https://njmsa.me/qurtmoc/admin/css/font-awesome-rtl.min.css)
+13:00:25	Error: 	"Not Found" (404) at link https://njmsa.me/qurtmoc/admin/fonts/fontawesome-webfont.woff?v=4.7.0 (from https://njmsa.me/qurtmoc/admin/css/font-awesome-rtl.min.css)
+13:00:25	Error: 	"Not Found" (404) at link https://njmsa.me/qurtmoc/admin/fonts/fontawesome-webfont.ttf?v=4.7.0 (from https://njmsa.me/qurtmoc/admin/css/font-awesome-rtl.min.css)
+13:00:25	Error: 	"Not Found" (404) at link https://njmsa.me/qurtmoc/admin/fonts/fontawesome-webfont.svg?v=4.7.0 (from https://njmsa.me/qurtmoc/admin/css/font-awesome-rtl.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 seconds : 23 links scanned, 8 files written (362820 bytes overall), 1 files updated [27380 bytes received at 2106 bytes/sec], 37966 bytes transferred using HTTP compression in 16 files, ratio 48%, 2.8 requests per connection
+(14 errors, 0 warnings, 0 messages)
